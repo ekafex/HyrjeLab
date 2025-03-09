@@ -1,2 +1,3 @@
-# HyrjeLab
-Hyrje ne Laborator, viti pare Fizike &amp; Shkenca Kompjuterike
+# Hyrje ne Laborator
+Ktu do gjeni disa informacione shtese per laboratoret e **Hyrje ne Laborator**, viti pare Fizike &amp; Shkenca Kompjuterike
+Kjo do jete ne zhvillim...
