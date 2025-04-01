@@ -15,7 +15,7 @@
    Hartoni dhe kryeni një **eksperiment të kontrolluar** për të testuar hipotezën. Matni me kujdes, regjistroni të dhënat dhe përsëritni nëse është e nevojshme.
 
 4. **Mbledhja dhe Analiza e të Dhënave**  
-   Organizoni të dhënat në tabela dhe grafiqe, përpunoni vlerat dhe vlerësoni pasiguritë matëse.
+   Organizoni të dhënat në tabela dhe grafiqe, përpunoni vlerat dhe vlerësoni pasiguritë e matjeve.
 
 5. **Përfundimi**  
    Krahasoni rezultatet me hipotezën dhe me teorinë:
@@ -44,16 +44,16 @@ Kur një trup i lidhur me një fije lëkundet, ai ndalet pas disa lëkundjesh. V
 
 
 ### **2. Hipoteza**  
-*“Mendoj se sa më i gjatë të jetë lavjerrësi, aq më shumë kohë do i duhet për një lëkundje të plotë (periudhë).”*  
+*“Mendoj se sa më i gjatë të jetë lavjerrësi, aq më shumë kohë do i duhet për një lëkundje të plotë (perioda T më e madhe).”*  
 Ose në mënyrë më shkencore:  
-*“Periudha T e një lavjerrësi është e lidhur me rrënjën katrore të gjatësisë së tij: T ∝ √L.”*
+*“Perioda T e një lavjerrësi është e lidhur me rrënjën katrore të gjatësisë së tij: T ∝ √L.”*
 
 
 ### **3. Eksperimentimi**
 - Marrim një fije dhe një trup të vogël (p.sh. një peshë).
-- Mësojmë disa gjatësi të ndryshme: 20 cm, 40 cm, 60 cm, 80 cm, 100 cm.
+- Masim disa gjatësi të ndryshme: 20 cm, 40 cm, 60 cm, 80 cm, 100 cm.
 - Lëshojmë lavjerrësin dhe masim kohën për 10 lëkundje.
-- Llogarisim **periudhën mesatare** T për çdo gjatësi: T = (koha për 10 lëkundje) / 10.
+- Llogarisim **periodën mesatare** T për çdo gjatësi: T = (koha për 10 lëkundje) / 10.
 
 
 
@@ -67,11 +67,11 @@ Ose në mënyrë më shkencore:
 | 1.0            | 20.0                      | 2.00           |
 
 - Bëjmë një grafik: **T kundrejt √L**.
-- Linja e drejtë tregon përputhje me teorinë T = 2π√(L/g).
+- Vija e drejtë tregon përputhje me teorinë T = 2π√(L/g).
 
 
 ### **5. Përfundimi**
-- Të dhënat tregojnë se periudha rritet me rrënjën katrore të gjatësisë.
+- Të dhënat tregojnë se perioda rritet me rrënjën katrore të gjatësisë.
 - Hipoteza është **mbështetur**.
 - Pasiguria në matje vjen nga koha e reagimit të studentit dhe paqëndrueshmëria e fijeve.
 
@@ -79,16 +79,13 @@ Ose në mënyrë më shkencore:
 ### **6. Komunikimi**
 - Këto të dhëna dhe analiza vendosen në **raportin laboratorik**, me grafik, ekuacione, vlerësim të pasigurive dhe përfundime të qarta.
 
-Ky eksperiment përdor një **model klasik** për të demonstruar sesi funksionon metoda shkencore – nga një pyetje e thjeshtë tek një përfundim i bazuar në të dhëna.
-
-
 
 <br>
 <br>
 
-# Hipoteza (Eksperimente)
+# Hipoteza (Eksperimente që mund të kryeni)
 
-1. Perimetri dhe diametri i nje rrethi jane proporcional?!
-2. Masa dhe vellimi i nje material jane proporcional?!
+1. **Perimetri dhe diametri i një rrethi janë proporcional, pra matematikisht P=a*D+b (provoni varësinë lineare dhe gjeni a dhe b eksperimentalisht dhe interpretoni ato)**
+2. **Masa dhe vellimi i nje material jane proporcional, pra matematikisht M=a*V+b (provoni varësinë lineare dhe gjeni a dhe b eksperimentalisht dhe interpretoni ato)**
 
 
