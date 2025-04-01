@@ -144,7 +144,9 @@ Në vend të kësaj:
 - Më pas paraqisni rezultatet në një **formë tabelare të përmbledhur**.
 
 
+# Shembuj
 
+1. [Perdue University](https://www.physics.purdue.edu/~sergei/classes/phys342l/examplereport.pdf)
 
 
 
