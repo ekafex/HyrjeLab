@@ -25,7 +25,7 @@ Pasiguria është kufiri brenda të cilit mendojmë se ndodhet vlera e saktë.
 - **Gabime sistematike** – matësi është i keqkalibruar
 
 
-## 5. Si Lezohet Një Instrument?
+## 5. Si Lexohet Një Instrument?
 
 - Gjithmonë vëzhgoni **ndarjen më të vogël** në shkallë (precizionin)
 - Vlerësoni një **shifër më tepër** (psh. 2.3 në një shkallë 0.1)
@@ -52,22 +52,22 @@ Para se të filloni, pyesni veten:
 ## 8. Gjuha Shkencore
 
 - Përdor terma të qartë: masë, shpejtësi, tension...
-- Shmang fjalët si “afërsisht”, “më duket”
-- Shkruaj si shkencëtar: qartë, saktë, pa opinione
+- Shmang fjalët të paqarta si “afërsisht”, “më duket”
+- Shkruaj si shkencëtar: qartë, saktë, pa opinione apo paragjykime
 
 
 ## 9. Gabimet Janë Pjesë e Procesit
 
 Mos u frikëso nga gabimet – ato janë mundësi për të mësuar.  
-Rëndësi ka të **kuptosh pse ndodhi**, jo vetëm ta fshehësh.
+Rëndësi ka të **kuptosh pse ndodhin**, jo thjeshtë të mundohesh ti fshehësh.
 
 
 ## 10. Zhvillo Kulturën Shkencore
 
 - Bëj pyetje
 - Dysho mbi rezultatet
-- Krahaso me teori
-- Kërko kuptim, jo vetëm numra
+- Krahaso me teorinë
+- Kërko që gjërat të bëjnë kuptim, eksperimenti nuk bëhet për të gjeneruar numra
 
 
 <br>
