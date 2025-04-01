@@ -1,3 +1,82 @@
+# **Bazat e Matjeve Shkencore – Udhëzues për Studentët Fillestarë**
+
+## 1. Çfarë është një Madhësi Fizike?
+
+Një madhësi fizike është një veçori që mund të matet, si gjatësia, masa, koha apo temperatura.  
+**Shembull:** Gjatësia matet me metër, temperatura me gradë Celsius.
+
+
+## 2. Çfarë Do të Thotë të Matësh?
+
+Matja është krahasimi i një madhësie me një **njësi standarde**.  
+Nuk ka vlerë “të saktë” – çdo matje ka **pasiguri**.
+
+
+## 3. Çfarë Është Pasiguria?
+
+Pasiguria është kufiri brenda të cilit mendojmë se ndodhet vlera e saktë.  
+**Gabim ≠ pasiguri**  
+**Pasiguria nuk është gabim**, por pjesë e çdo matjeje.
+
+
+## 4. Llojet e Gabimeve
+
+- **Gabime të rastësishme** – ndryshime të vogla në matje (psh. dridhje duarsh)
+- **Gabime sistematike** – matësi është i keqkalibruar
+
+
+## 5. Si Lezohet Një Instrument?
+
+- Gjithmonë vëzhgoni **ndarjen më të vogël** në shkallë (precizionin)
+- Vlerësoni një **shifër më tepër** (psh. 2.3 në një shkallë 0.1)
+- Mos harro **njësitë**!
+
+
+## 6. Si Regjistrohen të Dhënat?
+
+- Përdorni **tabela të qarta** me titull dhe njësi
+- Mos harroni të përfshini **pasigurinë**
+- Shënoni kushtet: data, temperatura, etj.
+
+
+
+## 7. Si Mendohet Një Eksperiment?
+
+Para se të filloni, pyesni veten:
+
+- Çfarë po mat?
+- Çfarë ndryshoj dhe çfarë mbaj konstant?
+- Si do ta analizoj të dhënën?
+
+
+## 8. Gjuha Shkencore
+
+- Përdor terma të qartë: masë, shpejtësi, tension...
+- Shmang fjalët si “afërsisht”, “më duket”
+- Shkruaj si shkencëtar: qartë, saktë, pa opinione
+
+
+## 9. Gabimet Janë Pjesë e Procesit
+
+Mos u frikëso nga gabimet – ato janë mundësi për të mësuar.  
+Rëndësi ka të **kuptosh pse ndodhi**, jo vetëm ta fshehësh.
+
+
+## 10. Zhvillo Kulturën Shkencore
+
+- Bëj pyetje
+- Dysho mbi rezultatet
+- Krahaso me teori
+- Kërko kuptim, jo vetëm numra
+
+
+<br>
+
+---
+
+<br>
+
+
 # Hyrje në Matjet Fizike dhe Analizën e Gabimeve
 
 ## 1. Matja Fizike – Baza e Shkencës Eksperimentale
