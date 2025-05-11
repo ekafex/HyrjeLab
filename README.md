@@ -3,5 +3,5 @@ Ktu do gjeni disa informacione shtese per laboratoret e **Hyrje ne Laborator**, 
 Kjo do jete ne zhvillim...
 
 ## Data Analysis
-1. [**Excell CheatSheet**](https://www.customguide.com/cheat-sheet/excel-cheat-sheet.pdf)
-2. [**Python CheatSheet**](https://www.pythoncheatsheet.org/cheatsheet/basics)
+1. [**Excel Cheat Sheet**](https://www.customguide.com/cheat-sheet/excel-cheat-sheet.pdf)
+2. [**Python Cheat Sheet**](https://www.pythoncheatsheet.org/cheatsheet/basics)
